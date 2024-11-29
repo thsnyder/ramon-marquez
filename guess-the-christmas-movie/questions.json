@@ -1,0 +1,239 @@
+[
+  {
+    "summary": "👴💰❌🎄👻⏳🤔",
+    "correct": "A Christmas Carol",
+    "options": ["A Christmas Carol", "It's a Wonderful Life", "Miracle on 34th Street"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1_.jpg"
+  },
+  {
+    "summary": "😞👼🌍🔄💡🎄❤️",
+    "correct": "It's a Wonderful Life",
+    "options": ["It's a Wonderful Life", "A Christmas Carol", "Elf"],
+    "image": "https://m.media-amazon.com/images/I/71Y7XoMvvHL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "summary": "🎅👨‍⚖️👩‍👧❓🎄🏛️❤️",
+    "correct": "Miracle on 34th Street",
+    "options": ["Miracle on 34th Street", "Elf", "The Santa Clause"],
+    "image": "https://m.media-amazon.com/images/I/616Ao7RcnxL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "summary": "👨🔪🎅➡️🎅🦌🎄",
+    "correct": "The Santa Clause",
+    "options": ["The Santa Clause", "Elf", "Home Alone"],
+    "image": "https://m.media-amazon.com/images/I/5151RuhSDbL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "summary": "🧝🍝🗽👨‍👦🎄🍭",
+    "correct": "Elf",
+    "options": ["Elf", "The Santa Clause", "Home Alone"],
+    "image": "https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/5hMAAOSw5CtimQEK/$_57.JPG?set_id=880000500F"
+  },
+  {
+    "summary": "👦🏠❌👨‍🦱👨‍🦲🎁🪤",
+    "correct": "Home Alone",
+    "options": ["Home Alone", "Elf", "Jingle All the Way"],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzNmNmQ2ZDEtMTc1MS00NjNiLThlMGUtZmQxNTg1Nzg5NWMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "summary": "👩‍❤️‍👨🎄❌🛏️🕒🌨️🎅",
+    "correct": "The Holiday",
+    "options": ["The Holiday", "Love Actually", "Home Alone"],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+  },
+  {
+    "summary": "🎅🔧👨‍🔬🚂🎄⚡💥",
+    "correct": "The Polar Express",
+    "options": ["The Polar Express", "A Christmas Carol", "Jingle All the Way"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "summary": "🎅🏃‍♂️🎄🧸🦸‍♂️❗🤯💥",
+    "correct": "Jingle All the Way",
+    "options": ["Jingle All the Way", "Elf", "Home Alone"],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDgzMjQ0YTctZGJhNy00ZjJjLTk5YWMtZmI2YTgwOTJmYWJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "summary": "🦌🔴👃🌟🎅🎄🎁⛷️🛷",
+    "correct": "Rudolph the Red-Nosed Reindeer",
+    "options": ["Rudolph the Red-Nosed Reindeer", "Frosty the Snowman", "The Polar Express"],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGZmNDZjYjktMDA5OC00NDljLWEyNWQtOWViOTFkZjAyMTVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "summary": "⛄🧢🎄🎺✨🌨️❤️",
+    "correct": "Frosty the Snowman",
+    "options": ["Frosty the Snowman", "Rudolph the Red-Nosed Reindeer", "The Polar Express"],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDM2Y2RiMjgtMDM1Zi00Mjk2LTg5ZGQtZTIwNTJjOTMxMGQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "summary": "🎄👦🐻➡️👹💥🏙️",
+    "correct": "Gremlins",
+    "options": ["Gremlins", "Krampus", "Elf"],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmMzMmIxNzYtYjk3OS00NjBiLTkxNDQtODU3ZDNjN2RiMTIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+    {
+      "summary": "🎃👻🎄🎅🤔🦴✨",
+      "correct": "The Nightmare Before Christmas",
+      "options": ["The Nightmare Before Christmas", "Krampus", "Gremlins"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    },
+    {
+      "summary": "🎄💔👨‍👩‍👦👩‍❤️‍👨🎁🌟✨",
+      "correct": "The Family Stone",
+      "options": ["The Family Stone", "Love Actually", "The Holiday"],
+      "image": "https://m.media-amazon.com/images/M/MV5BOTQ5NTYwZGItZjg4ZC00NTNlLTg4ZjUtYzcyMmQ1MWUyNTc2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "summary": "🎅👔🎄😡🛏️🎁😂",
+      "correct": "Arthur Christmas",
+      "options": ["Arthur Christmas", "Elf", "The Santa Clause"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "summary": "🎄🎅😱🏢👨‍👩‍👧‍👦💥🔪",
+      "correct": "Die Hard",
+      "options": ["Die Hard", "Home Alone", "Gremlins"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "summary": "🎅👨‍👩‍👦👶🎁🎄❤️",
+      "correct": "Noelle",
+      "options": ["Noelle", "The Santa Clause", "Elf"],
+      "image": "https://m.media-amazon.com/images/M/MV5BY2I2OTM0MjQtYjY0Mi00NWY1LWEyZjItZjM5MzM0Y2M2N2MxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "summary": "🎄👧❄️☃️👗👠✨",
+      "correct": "Frozen",
+      "options": ["Frozen", "Rudolph the Red-Nosed Reindeer", "The Polar Express"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_.jpg"
+    },
+    {
+      "summary": "🎄🎅❓👨‍⚖️👩‍❤️‍👨✨",
+      "correct": "The Preacher's Wife",
+      "options": ["The Preacher's Wife", "Miracle on 34th Street", "Love Actually"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFuRo8GDVWem-yRU0YBljQBdpHKqXKwRtIBw&s"
+    },
+    {
+      "summary": "🦌🎄👨‍👩‍👦🎅✨❤️",
+      "correct": "Prancer",
+      "options": ["Prancer", "Rudolph the Red-Nosed Reindeer", "Frosty the Snowman"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwMDg2ODM1M15BMl5BanBnXkFtZTcwNzIwMzg4NA@@._V1_.jpg"
+    },
+    {
+      "summary": "📖🎅🎄🎁😄🏠🔔✨",
+        "correct": "The Christmas Chronicles",
+        "options": ["The Christmas Chronicles", "Elf", "The Santa Clause"],
+        "image": "https://m.media-amazon.com/images/M/MV5BNTA3NjU3OTM2MV5BMl5BanBnXkFtZTgwNjQ2MzE1NjM@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "summary": "🎄🛍️😬👩‍❤️‍👨❄️❤️",
+        "correct": "Last Christmas",
+        "options": ["Last Christmas", "Love Actually", "The Holiday"],
+        "image": "https://m.media-amazon.com/images/M/MV5BY2NlNTMwYzgtZjI2Ny00ZWExLWE2NDUtNzFlYTQyMmY1NjkwXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "summary": "❄️🐧🎄❤️✨🎅",
+        "correct": "The Year Without a Santa Claus",
+        "options": ["The Year Without a Santa Claus", "Rudolph the Red-Nosed Reindeer", "Frosty the Snowman"],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMzNjYzMzI1N15BMl5BanBnXkFtZTYwODY0OTk4._V1_.jpg"
+      },
+      {
+        "summary": "🎅🦌🛷🎁🌟🎄✨",
+        "correct": "Santa Claus Is Comin' to Town",
+        "options": ["Santa Claus Is Comin' to Town", "The Polar Express", "Elf"],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc2NjMxMTU2Ml5BMl5BanBnXkFtZTcwNjg4NTYyMQ@@._V1_.jpg"
+      },
+      {
+        "summary": "🦌👩‍❤️‍👨🎄❄️💡❤️",
+        "correct": "Christmas in Connecticut",
+        "options": ["Christmas in Connecticut", "The Holiday", "Love Actually"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwBs4kuzuHUzu8aTtSZRfq7skuEO7cGSuWUQ&s"
+      },
+      {
+        "summary": "🎄🎭🏠⚔️🏠🎅✨😂❤️",
+        "correct": "Deck the Halls",
+        "options": ["Deck the Halls", "Elf", "The Santa Clause"],
+        "image": "https://m.media-amazon.com/images/M/MV5BMTIzNjA4OTM0OV5BMl5BanBnXkFtZTcwMDgwODkzMQ@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "summary": "🎄🧸👩‍👧✨🛍️❤️🤴",
+        "correct": "A Christmas Prince",
+        "options": ["A Christmas Prince", "The Princess Switch", "Christmas in Connecticut"],
+        "image": "https://m.media-amazon.com/images/M/MV5BZGNkZDMwZjItNWU0Ny00YjM5LTgxYWMtZDIyM2Y4NWQ2NDI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "summary": "🎄🕵️‍♂️❓🎅👶❤️",
+        "correct": "The Christmas Secret",
+        "options": ["The Christmas Secret", "The Santa Clause", "Noelle"],
+        "image": "https://m.media-amazon.com/images/M/MV5BNjhhMzZhYTktOTgxYy00NTA0LWE0NmUtMWYwMmY1ZjRmMWY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "summary": "🎄🛷🎅🎁😂💡",
+        "correct": "Ernest Saves Christmas",
+        "options": ["Ernest Saves Christmas", "Elf", "The Christmas Chronicles"],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtEcb-z2iHQsw4Rmas9TNd8eMUqlUNfbTFA&s"
+      },
+      {
+        "summary": "🎄🎅🤝🔁✨💵❤️",
+        "correct": "Trading Places",
+        "options": ["Trading Places", "Love Actually", "Scrooged"],
+        "image": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "summary": "🎄💔😢🎅❤️👨‍👩‍👧",
+        "correct": "The Best Man Holiday",
+        "options": ["The Best Man Holiday", "The Holiday", "Last Christmas"],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjU0MTI1MDg5Ml5BMl5BanBnXkFtZTgwNzc2MTMzMDE@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "summary": "🎄👩‍🍳👨‍💼✨😂❤️",
+        "correct": "Christmas in Love",
+        "options": ["Christmas in Love", "Christmas in Connecticut", "A Christmas Prince"],
+        "image": "https://m.media-amazon.com/images/M/MV5BYTM1Y2JkNWUtZDU4NC00ZGJlLWI0M2EtMWFjNTBkNmJlODUwXkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+      },
+        {
+          "summary": "🎄🎅🤶🔁🏰✨🌟❤️",
+          "correct": "The Princess Switch",
+          "options": ["The Princess Switch", "A Christmas Prince", "The Holiday"],
+          "image": "https://m.media-amazon.com/images/M/MV5BZGQxM2M4ZGQtMjc5Zi00OGE2LTgyZjItNzQ2MjJkYmI5NDE3XkEyXkFqcGdeQXVyMTExMzQwNzQz._V1_FMjpg_UX1000_.jpg"
+        },
+          {
+            "summary": "📮🎄🤔📬👦🎅✨❤️",
+            "correct": "Klaus",
+            "options": ["Klaus", "A Christmas Carol", "The Polar Express"],
+            "image": "https://resizing.flixster.com/2YvS8JXQHlEJLK5UVXB_9LogEQI=/fit-in/180x240/v2/https://resizing.flixster.com/cmnfD_LwqvfnPjF17hdOTN2CRfA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZkYmI5YmNhLTNhNDctNDA2Zi1hZTQwLWJiZTU2YWY5N2EwOC53ZWJw"
+          },
+          {
+            "summary": "🎄👦👁️🔫🦵💡🏠🎁✨😂",
+            "correct": "A Christmas Story",
+            "options": ["A Christmas Story", "Home Alone", "National Lampoon's Christmas Vacation"],
+            "image": "https://resizing.flixster.com/UQoUyZv5llG1KiMvo3scvgljsQU=/fit-in/180x240/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8655_v_v13_aj.jpg"
+          },
+          {
+            "summary": "🎄😡🏠🎅🎁💚✨",
+            "correct": "How the Grinch Stole Christmas",
+            "options": ["How the Grinch Stole Christmas", "The Nightmare Before Christmas", "Elf"],
+            "image": "https://resizing.flixster.com/YjO019kJajtiVTwaz2flDZNSKxo=/fit-in/180x240/v2/https://resizing.flixster.com/cKdYTQ5xhoWAm08CNwv5lPdJNbk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyYTFlZTYxLWFiMTItNGU2Zi05NzdiLWViZDViNGY3YmRkYy5qcGc="
+          },
+          {
+            "summary": "🎄📺😡👨‍💼👻✨😂",
+            "correct": "Scrooged",
+            "options": ["Scrooged", "Klaus", "The Princess Switch"],
+            "image": "https://resizing.flixster.com/5VfTwEX6C6M79fE5oM_nXyP8giI=/fit-in/180x240/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11289_p_v8_as.jpg"
+          },
+          {
+            "summary": "🎄👯🎤✨🤸‍♂️😂❤️",
+            "correct": "Spirited",
+            "options": ["Spirited", "A Christmas Story", "Elf"],
+            "image": "https://resizing.flixster.com/WllTPtrc_rRE3MS-5G6gRY_3FAs=/fit-in/180x240/v2/https://resizing.flixster.com/s6PvcgVhH04SrT5Fy8TfoGdxQMs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U0MWNhYmQzLWQ0NzItNGMzMS04OTM2LTg4NGI0YWZiNThiYS5qcGc="
+          },
+          {
+            "summary": "🎄🏠👨‍👩‍👧‍👦🔥💡✨😂",
+            "correct": "National Lampoon's Christmas Vacation",
+            "options": ["National Lampoon's Christmas Vacation", "A Christmas Story", "Home Alone"],
+            "image": "https://resizing.flixster.com/4OisUnx9Nug50j8HarIALcEYe1Q=/fit-in/180x240/v2/https://resizing.flixster.com/C3c1Y3mK6rBSobncMx_l_GicJXo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4MWExYjU0LTU4YjgtNDVlNS05M2U2LTAxMWFiMzgxMjg2MS5qcGc="
+          }
+        ]
+        
+    
+  
